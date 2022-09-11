@@ -1,0 +1,11 @@
+\babel@toc {french}{}
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Pr\IeC {\'e}sentation du projet}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{Sp\IeC {\'e}cification minimal demand\IeC {\'e}}{4}{0}{1}
+\beamer@sectionintoc {2}{Structure g\IeC {\'e}n\IeC {\'e}rale du projet}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Arborescence des packages}{5}{0}{2}
+\beamer@subsectionintoc {2}{2}{Les packages utilis\IeC {\'e}s}{6}{0}{2}
+\beamer@sectionintoc {3}{Rendu final}{7}{0}{3}
+\beamer@subsectionintoc {3}{1}{Diagramme UML}{7}{0}{3}
+\beamer@subsectionintoc {3}{2}{Interface graphique}{9}{0}{3}
+\beamer@sectionintoc {4}{Conclusion}{10}{0}{4}

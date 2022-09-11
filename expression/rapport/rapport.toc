@@ -1,0 +1,67 @@
+\babel@toc {french}{}
+\contentsline {section}{\numberline {1}Présentation du projet}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Spécification minimal demandé}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Fonctionnalités implémentés}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Librairies utilisés}{2}{subsection.1.3}%
+\contentsline {paragraph}{}{3}{section*.2}%
+\contentsline {section}{\numberline {2}Organisation du projet}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Arborescence des packages}{3}{subsection.2.1}%
+\contentsline {paragraph}{}{3}{section*.3}%
+\contentsline {paragraph}{}{3}{section*.4}%
+\contentsline {subsection}{\numberline {2.2}Diagramme de classe}{4}{subsection.2.2}%
+\contentsline {paragraph}{}{4}{section*.5}%
+\contentsline {subsubsection}{\numberline {2.2.1}Core}{4}{subsubsection.2.2.1}%
+\contentsline {paragraph}{}{4}{section*.6}%
+\contentsline {subsubsection}{\numberline {2.2.2}Interface}{5}{subsubsection.2.2.2}%
+\contentsline {paragraph}{}{5}{section*.7}%
+\contentsline {subsection}{\numberline {2.3}Répartition des tâches}{5}{subsection.2.3}%
+\contentsline {paragraph}{}{5}{section*.8}%
+\contentsline {section}{\numberline {3}Problèmes et solutions}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Camera}{6}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Lancement des rayons}{6}{subsubsection.3.1.1}%
+\contentsline {paragraph}{Création des rayons}{6}{section*.9}%
+\contentsline {paragraph}{Échelle de l'image}{6}{section*.10}%
+\contentsline {paragraph}{Actualisation de l'image}{6}{section*.11}%
+\contentsline {subsubsection}{\numberline {3.1.2}Déplacements}{6}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}Acteurs}{7}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Intersection avec un rayon}{7}{subsubsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.3}Scène}{7}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Ombres et lumières}{7}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Affichage des acteurs}{8}{subsubsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.4}Interface}{9}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Expérimentations}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Des captures d'ecrans de l'appliation}{10}{subsection.4.1}%
+\contentsline {paragraph}{}{10}{section*.12}%
+\contentsline {paragraph}{}{10}{section*.13}%
+\contentsline {paragraph}{}{11}{section*.14}%
+\contentsline {paragraph}{}{11}{section*.15}%
+\contentsline {paragraph}{}{12}{section*.16}%
+\contentsline {paragraph}{}{12}{section*.17}%
+\contentsline {paragraph}{}{13}{section*.18}%
+\contentsline {paragraph}{}{13}{section*.19}%
+\contentsline {paragraph}{}{14}{section*.20}%
+\contentsline {paragraph}{}{14}{section*.21}%
+\contentsline {paragraph}{}{15}{section*.22}%
+\contentsline {subsection}{\numberline {4.2}Rendu final et manuel d'utilisation}{15}{subsection.4.2}%
+\contentsline {paragraph}{Rendu final}{15}{section*.23}%
+\contentsline {paragraph}{Manuel d'utilisation}{16}{section*.24}%
+\contentsline {subsection}{\numberline {4.3}Performances}{16}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Benchmark}{16}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Optimisations possibles}{17}{subsubsection.4.3.2}%
+\contentsline {paragraph}{Multi thread}{17}{section*.25}%
+\contentsline {subparagraph}{Option 1}{18}{section*.26}%
+\contentsline {subparagraph}{Option 2}{18}{section*.27}%
+\contentsline {paragraph}{Factorisation du code}{19}{section*.28}%
+\contentsline {paragraph}{Visualisation de la scène}{20}{section*.29}%
+\contentsline {section}{\numberline {5}Conclusion}{21}{section.5}%
+\contentsline {subsection}{\numberline {5.1}État des objectifs}{21}{subsection.5.1}%
+\contentsline {paragraph}{}{21}{section*.30}%
+\contentsline {subsubsection}{\numberline {5.1.1}Objectifs atteints}{21}{subsubsection.5.1.1}%
+\contentsline {paragraph}{}{21}{section*.31}%
+\contentsline {subsubsection}{\numberline {5.1.2}Objectifs non atteints}{21}{subsubsection.5.1.2}%
+\contentsline {paragraph}{}{21}{section*.32}%
+\contentsline {subsection}{\numberline {5.2}Améliorations possibles}{21}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Contenu disponible}{21}{subsubsection.5.2.1}%
+\contentsline {paragraph}{}{21}{section*.33}%
+\contentsline {subsubsection}{\numberline {5.2.2}Fonctionnalités}{21}{subsubsection.5.2.2}%
+\contentsline {paragraph}{}{21}{section*.34}%

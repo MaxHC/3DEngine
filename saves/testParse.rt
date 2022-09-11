@@ -1,0 +1,38 @@
+sphere<
+	position<0,0,15>
+	color<255,255,255>
+	radius<2>
+	component<0.15,0.6,1,100>
+>
+
+sphere<
+	position<5,1,15>
+	color<0,255,0>
+	radius<2>
+	component<0.15,0.6,1,100>
+>
+
+sphere<
+	position<-3,7,20>
+	color<255,125,255>
+	radius<3>
+	component<0.1,0.7,1,200>
+>
+
+sphere<
+	position<3,7,25>
+	color<0,255,255>
+	radius<3>
+	component<0.1,0.5,1,300>
+>
+
+camera<
+	position<0,0,0>
+	width<500>
+	height<500>
+	aperture<180>
+>
+
+light<
+	position<-10,5,0>
+>
